@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Comienzo",
+    "speaker": "Freddy Vega",
+    "src": "./src/assets/Avatar-01.svg",
+    "time": "9:00",
+    "duration": "15 min"
+  },
+  {
+    "title": "Nudo",
+    "speaker": "Patti Macias",
+    "src": "./src/assets/Avatar-03.svg",
+    "time": "9:15",
+    "duration": "10 min"
+  },
+  {
+    "title": "Final",
+    "speaker": "Jordi Wild",
+    "src": "./src/assets/Avatar-07.svg",
+    "time": "9:25",
+    "duration": "20 min"
+  }
+]

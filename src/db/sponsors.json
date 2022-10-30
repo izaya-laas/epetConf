@@ -1,0 +1,27 @@
+[
+  {
+    "src": "./src/assets/sponsors/bunny.svg",
+    "name": "bunny",
+    "href": "https://bunny.net/"
+  },
+  {
+    "src": "./src/assets/sponsors/epsagon.svg",
+    "name": "epsagon",
+    "href": "https://epsagon.com/"
+  },
+  {
+    "src": "./src/assets/sponsors/growth-book.svg",
+    "name": "growth-book",
+    "href": "https://www.growthbook.io/"
+  },
+  {
+    "src": "./src/assets/sponsors/stately.svg",
+    "name": "stately",
+    "href": "https://stately.ai/"
+  },
+  {
+    "src": "./src/assets/sponsors/turbopack.svg",
+    "name": "turbopack",
+    "href": "https://turbo.build/pack"
+  }
+]

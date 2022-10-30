@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Freddy Vega",
+    "ocupation": "CEO de Platzi",
+    "src": "./src/assets/Avatar-01.svg",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Patti Macias",
+    "ocupation": "Desarrollo personal",
+    "src": "./src/assets/Avatar-03.svg",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "DOT CSV",
+    "ocupation": "Inteligencia Artificial",
+    "src": "./src/assets/Avatar-08.svg",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Mansi Dot",
+    "ocupation": "Cripto",
+    "src": "./src/assets/Avatar-04.svg",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Ema Martinez",
+    "ocupation": "Estudiante",
+    "src": "./src/assets/Avatar-05.svg",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Micaela Quiroga",
+    "ocupation": "Estudiante",
+    "src": "./src/assets/Avatar-02.svg",
+    "instagram": "",
+    "twitter": ""
+  }
+]
