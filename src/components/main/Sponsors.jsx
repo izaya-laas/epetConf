@@ -6,7 +6,7 @@ const Sponsors = () => {
     <section id="patrocinadores" className="pb-20">
       <Subtitle>Patrocinadores</Subtitle>
       <nav>
-        <ul className="w-4/5 grid  grid-cols-1 place-items-center  justify-items-start desktop:grid-cols-2 desktop:grid-flow-row desktop:gap-x-10 mx-auto gap-y-8">
+        <ul className="w-4/5 grid grid-cols-1 place-items-center  justify-items-start tablet:justify-items-center desktop:grid-cols-2  desktop:gap-x-20 mx-auto gap-y-8">
           {sponsors.map((sponsor) => (
             <a
               href={sponsor.href}
@@ -14,7 +14,11 @@ const Sponsors = () => {
               target="_BLANCK"
               rel="noopenner"
             >
-              <img src={sponsor.src} alt={sponsor.name} />
+              <img
+                className="w-full h-full block"
+                src={sponsor.src}
+                alt={sponsor.name}
+              />
             </a>
           ))}
         </ul>
