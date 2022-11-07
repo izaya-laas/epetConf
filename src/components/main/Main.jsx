@@ -1,4 +1,3 @@
-import { useEffect, useState } from "preact/hooks";
 import { IoCalendar } from "react-icons/io5";
 import { IoLocationOutline } from "react-icons/io5";
 import { useTiping } from "../../hooks/useTiping";
@@ -9,15 +8,23 @@ import Sponsors from "./Sponsors";
 
 const Main = () => {
   const keywords = useTiping(
-    ["INNOVACIÓN", "TECNOLOGIA", "HABILIDADES BLANDAS"],
-    300
+    [
+      "INNOVACIÓN",
+      "TECNOLOGIA",
+      "EXPERIENCIAS",
+      "HABILIDADES BLANDAS",
+      "AUTOMATIZACIÓN",
+      "IA",
+      "ENERGIA RENOVABLES",
+    ],
+    400
   );
 
   return (
-    <main className="text-center pt-10 font-inter desktop:pt-32 text-[var(--secondary-color)]  ">
+    <main className="text-center pt-10 font-inter desktop:pt-32 text-fourth-color bg-gradient-to-r from-secondary-color via-primary-color to-secondary-color  ">
       <section id="inicio" className="pb-10">
-        <h1 className="text-center select-none text-5xl desktop:text-8xl font-poppins font-bold pb-4">
-          <span>#EpetConf</span>
+        <h1 className="text-center select-none text-5xl desktop:text-9xl font-poppins font-bold pb-4">
+          <span>epetConf</span>
         </h1>
         <p className="select-none text-sm desktop:text-lg font-inter text-[#f1f1f1] font-medium ">
           <span className="border-r-2 border-white">
@@ -51,10 +58,10 @@ const Main = () => {
         <Counter />
       </section>
       <div
-        className="bg-[#121f3d] h-32 relative"
+        className="bg-third-color h-32 relative"
         style="clip-path: polygon(0 79%, 100% 34%, 100% 100%, 0 100%)"
       ></div>
-      <div className="bg-[#121f3d]">
+      <div className="bg-third-color">
         <Diary />
         <Speakers />
         <Sponsors />

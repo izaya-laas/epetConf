@@ -4,6 +4,10 @@ const navLinks = [
     text: "Inicio",
   },
   {
+    to: "#acerca",
+    text: "Acerca",
+  },
+  {
     to: "#agenda",
     text: "Agenda",
   },
@@ -26,7 +30,7 @@ const NavBar = ({ className, sectionClass, setOpenHamburger }) => {
             <a
               onClick={setOpenHamburger}
               href={link.to}
-              className="hover:border-b-2 transition-all duration-100"
+              className="hover:border-b-2 border-fourth-color transition-all duration-100"
             >
               {link.text}
             </a>

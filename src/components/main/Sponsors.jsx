@@ -3,8 +3,8 @@ import sponsors from "../../db/sponsors.json";
 
 const Sponsors = () => {
   return (
-    <section id="patrocinadores" className="pb-20">
-      <Subtitle>Patrocinadores</Subtitle>
+    <section id="patrocinadores" className="pb-52">
+      <Subtitle>Sponsors</Subtitle>
       <nav>
         <ul className="w-4/5 grid grid-cols-1 place-items-center  justify-items-start tablet:justify-items-center desktop:grid-cols-2  desktop:gap-x-20 mx-auto gap-y-8">
           {sponsors.map((sponsor) => (

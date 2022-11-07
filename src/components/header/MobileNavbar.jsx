@@ -12,7 +12,11 @@ const MobileNavbar = () => {
 
   return (
     <>
-      <div className={`z-20 ${isOpenHamburger ? "relative" : "fixed"}`}>
+      <div
+        className={`block sm:hidden z-20 ${
+          isOpenHamburger ? "relative" : "fixed"
+        }`}
+      >
         {isOpenHamburger ? (
           <RiMenu2Fill
             size="40px"
