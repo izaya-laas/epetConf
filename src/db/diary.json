@@ -2,21 +2,21 @@
   {
     "title": "Comienzo",
     "speaker": "Freddy Vega",
-    "src": "./src/assets/Avatar-01.svg",
+    "src": "https://i.ibb.co/2gTJpyG/Avatar-01.webp",
     "time": "9:00",
     "duration": "15 min"
   },
   {
     "title": "Nudo",
     "speaker": "Patti Macias",
-    "src": "./src/assets/Avatar-03.svg",
+    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
     "time": "9:15",
     "duration": "10 min"
   },
   {
     "title": "Final",
     "speaker": "Jordi Wild",
-    "src": "./src/assets/Avatar-07.svg",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
     "time": "9:25",
     "duration": "20 min"
   }
