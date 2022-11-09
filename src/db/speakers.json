@@ -2,42 +2,42 @@
   {
     "name": "Freddy Vega",
     "ocupation": "CEO de Platzi",
-    "src": "./src/assets/Avatar-01.svg",
+    "src": "https://i.ibb.co/2gTJpyG/Avatar-01.webp",
     "instagram": "",
     "twitter": ""
   },
   {
     "name": "Patti Macias",
     "ocupation": "Desarrollo personal",
-    "src": "./src/assets/Avatar-03.svg",
+    "src": "https://i.ibb.co/SyHn3VP/Avatar-03.webp",
     "instagram": "",
     "twitter": ""
   },
   {
     "name": "DOT CSV",
     "ocupation": "Inteligencia Artificial",
-    "src": "./src/assets/Avatar-08.svg",
+    "src": "https://i.ibb.co/TYRhBYK/Avatar-08.webp",
     "instagram": "",
     "twitter": ""
   },
   {
     "name": "Mansi Dot",
     "ocupation": "Cripto",
-    "src": "./src/assets/Avatar-04.svg",
+    "src": "https://i.ibb.co/8gDc5ZL/Avatar-04.webp",
     "instagram": "",
     "twitter": ""
   },
   {
     "name": "Ema Martinez",
     "ocupation": "Estudiante",
-    "src": "./src/assets/Avatar-05.svg",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-05.webp",
     "instagram": "",
     "twitter": ""
   },
   {
     "name": "Micaela Quiroga",
     "ocupation": "Estudiante",
-    "src": "./src/assets/Avatar-02.svg",
+    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
     "instagram": "",
     "twitter": ""
   }
