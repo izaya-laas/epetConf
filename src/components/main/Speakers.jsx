@@ -6,11 +6,11 @@ import Subtitle from "../Subtitle";
 console.log(speakers);
 const Speakers = () => {
   return (
-    <section id="oradores" className="text-3xl font-poppins pb-52 ">
-      <Subtitle>Oradores</Subtitle>
+    <section id="oradores" className="text-3xl font-poppins pb-32 ">
+      <Subtitle className="pb-12 ">Oradores</Subtitle>
       <section className="grid gap-y-10 grid-cols-1 tablet:grid-cols-2 desktop:grid-cols-3 font-inter">
         {speakers.map((speaker) => (
-          <figure className="w-4/5 mx-auto flex flex-col gap-y-2 bg-[#121f3d] rounded-2xl">
+          <figure className="mx-auto flex flex-col gap-y-2 border-2 px-4 bg-[#121f3d] rounded-2xl hover:brightness-125 py-4 bg-gradient-to-bl from-transparent via-transparent to-op-primary-color backdrop-blur transition-all duration-300">
             <img
               className="block w-48 h-48 border-8 mx-auto rounded-full"
               src={speaker.src}

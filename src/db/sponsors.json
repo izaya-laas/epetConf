@@ -8,5 +8,10 @@
     "src": "./src/assets/sponsors/mconsultores.png",
     "name": "Mconsultores",
     "href": "https://ar.linkedin.com/in/mariela-lanzetti-2855814b"
+  },
+  {
+    "src": "./src/assets/sponsors/agrotoken.png",
+    "name": "Agrotoken",
+    "href": ""
   }
 ]

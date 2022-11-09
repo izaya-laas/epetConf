@@ -1,6 +1,7 @@
 import { IoCalendar } from "react-icons/io5";
 import { IoLocationOutline } from "react-icons/io5";
 import { useTiping } from "../../hooks/useTiping";
+import About from "./About";
 import Counter from "./Counter";
 import Diary from "./Diary";
 import Speakers from "./Speakers";
@@ -21,7 +22,7 @@ const Main = () => {
   );
 
   return (
-    <main className="text-center pt-10 font-inter desktop:pt-32 text-fourth-color bg-gradient-to-r from-secondary-color via-primary-color to-secondary-color  ">
+    <main className="text-center pt-20 font-inter desktop:pt-32 text-fourth-color bg-gradient-to-r from-secondary-color via-primary-color to-secondary-color  ">
       <section id="inicio" className="pb-10">
         <h1 className="text-center select-none text-5xl desktop:text-9xl font-poppins font-bold pb-4">
           <span>epetConf</span>
@@ -62,6 +63,7 @@ const Main = () => {
         style="clip-path: polygon(0 79%, 100% 34%, 100% 100%, 0 100%)"
       ></div>
       <div className="bg-third-color">
+        <About />
         <Diary />
         <Speakers />
         <Sponsors />
