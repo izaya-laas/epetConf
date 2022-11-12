@@ -4,7 +4,7 @@ import NavBar from "./NavBar";
 
 const Header = () => {
   return (
-    <header className="fixed z-50 w-full block backdrop-blur-sm rounded-b-md">
+    <header className="fixed z-50 w-full block rounded-b-md">
       <MobileNavbar />
       <DesktopNavbar />
     </header>

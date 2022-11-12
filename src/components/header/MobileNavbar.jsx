@@ -5,46 +5,57 @@ import { RiMenu2Fill } from "react-icons/ri";
 import { NAVLINKS } from "../../app";
 
 const MobileNavbar = () => {
-	const [isOpenHamburger, setIsOpenHamburger] = useState(false);
+  const [isOpenHamburger, setIsOpenHamburger] = useState(false);
 
-	const setOpenHamburger = () => {
-		setIsOpenHamburger(!isOpenHamburger);
-	};
+  const setOpenHamburger = () => {
+    setIsOpenHamburger(!isOpenHamburger);
+  };
 
-	return (
-		<nav className="block md:hidden w-full py-2 px-2">
-			<picture className="flex justify-end">
-				{!isOpenHamburger ? (
-					<RiMenu2Fill
-						className="cursor-pointer text-gray-300 hover:text-fourth-color transition-colors duration-300"
-						size="40px"
-						onClick={() => {
-							setOpenHamburger();
-						}}
-					/>
-				) : (
-					<IoMdClose
-						className="cursor-pointer text-gray-300 hover:text-fourth-color transition-colors duration-300"
-						size="40px"
-						onClick={() => {
-							setOpenHamburger();
-						}}
-					/>
-				)}
-			</picture>
+  return (
+    <nav
+      className={`block md:hidden w-full py-2 px-2  ${
+        isOpenHamburger
+          ? "backdrop-blur-3xl border-b-4 border-fourth-color"
+          : ""
+      }`}
+    >
+      <picture className="flex justify-end">
+        {!isOpenHamburger ? (
+          <RiMenu2Fill
+            className="cursor-pointer text-gray-300 hover:text-fourth-color transition-colors duration-300"
+            size="40px"
+            onClick={() => {
+              setOpenHamburger();
+            }}
+          />
+        ) : (
+          <IoMdClose
+            className="cursor-pointer text-gray-300 hover:text-fourth-color transition-colors duration-300"
+            size="40px"
+            onClick={() => {
+              setOpenHamburger();
+            }}
+          />
+        )}
+      </picture>
 
-			<nav className={`w-full flex flex-col py-1 items-center ${isOpenHamburger ? "" : "hidden"}`}>
-				{NAVLINKS.map((link) => (
-					<a
-						onClick={setOpenHamburger}
-						href={link.to}
-						className={`w-full text-gray-color hover:text-fourth-color transition-all duration-300 cursor-pointer py-3 px-2 text-center text-base font-semibold`}>
-						{link.text}
-					</a>
-				))}
-			</nav>
-		</nav>
-	);
+      <nav
+        className={`w-full h-full flex flex-col py-1 items-center ${
+          isOpenHamburger ? "" : "hidden"
+        }`}
+      >
+        {NAVLINKS.map((link) => (
+          <a
+            onClick={setOpenHamburger}
+            href={link.to}
+            className={`w-full text-gray-color hover:font-bold hover:text-fourth-color transition-all duration-300 cursor-pointer py-3 px-2 text-center text-base font-semibold`}
+          >
+            {link.text}
+          </a>
+        ))}
+      </nav>
+    </nav>
+  );
 };
 
 export default MobileNavbar;
