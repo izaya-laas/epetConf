@@ -4,6 +4,8 @@ import Agrotoken from "../sponsors/Agrotoken";
 import Coderhouse from "../sponsors/Coderhouse";
 import Msconsultores from "../sponsors/Mconsultores";
 import ShellMartinez from "../sponsors/ShellMartinez";
+import ElIman from "../sponsors/ElIman";
+import Neucor from "../sponsors/Neucor";
 
 const Sponsors = () => {
   return (
@@ -14,16 +16,26 @@ const Sponsors = () => {
       </small>
       <nav className="flex flex-col w-3/4 sm:w-2/4 lg:hidden gap-y-6 mx-auto">
         <ShellMartinez />
+        <ElIman />
+        <p>Pampagonia</p>
+        <p>Diesel Lange</p>
         <Msconsultores />
-        <Agrotoken />
         <Coderhouse />
+        <Neucor />
+        <Agrotoken />
+        <p>Gondean</p>
       </nav>
 
-      <nav className="hidden lg:grid lg:grid-cols-2 mx-auto gap-y-6 w-3/4">
+      <nav className="hidden desktop:grid desktop:grid-cols-2 desktop:place-items-center mx-auto gap-y-6 w-3/4">
         <ShellMartinez />
+        <ElIman />
         <Msconsultores />
         <Agrotoken />
         <Coderhouse />
+        <Neucor />
+        <p>Pampagonia</p>
+        <p>Diesel Lange</p>
+        <p>Gondean</p>
       </nav>
     </section>
   );

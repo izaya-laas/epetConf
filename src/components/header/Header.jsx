@@ -1,6 +1,5 @@
 import MobileNavbar from "./MobileNavbar";
 import DesktopNavbar from "./DesktopNavbar";
-import NavBar from "./NavBar";
 
 const Header = () => {
   return (

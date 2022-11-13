@@ -24,7 +24,7 @@ const Main = () => {
   return (
     <main className="text-center pt-20 font-inter desktop:pt-32 text-fourth-color bg-gradient-to-r from-secondary-color via-primary-color to-secondary-color  ">
       <section id="inicio" className="pb-10">
-        <h1 className="text-center select-none text-5xl desktop:text-9xl font-poppins font-bold pb-4">
+        <h1 className="text-center select-none text-6xl desktop:text-9xl font-poppins font-bold pb-4">
           <span>epetConf</span>
         </h1>
         <p className="select-none text-sm desktop:text-lg font-inter text-[#f1f1f1] font-medium ">
