@@ -11,7 +11,7 @@ const Sponsors = () => {
   return (
     <section className="pb-10" id="sponsors">
       <Subtitle className="pb-4">Sponsors</Subtitle>
-      <small className="text-sm block mb-8 font-semibold italic">
+      <small className="text-sm desktop:text-lg block mb-8 font-semibold italic">
         Esto se logró gracias a la confianza de
       </small>
       <nav className="flex flex-col w-3/4 sm:w-2/4 lg:hidden gap-y-6 mx-auto">
