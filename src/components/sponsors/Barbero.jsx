@@ -1,6 +1,6 @@
 import barbero from "../../assets/sponsors/barbero.png";
 
-const Barbero = (className) => {
+const Barbero = () => {
   return <img src={barbero} />;
 };
 
