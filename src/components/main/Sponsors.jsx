@@ -6,6 +6,7 @@ import Msconsultores from "../sponsors/Mconsultores";
 import ShellMartinez from "../sponsors/ShellMartinez";
 import ElIman from "../sponsors/ElIman";
 import Neucor from "../sponsors/Neucor";
+import Barbero from "../sponsors/Barbero";
 
 const Sponsors = () => {
   return (
@@ -15,7 +16,7 @@ const Sponsors = () => {
       <nav className="flex flex-col w-3/4 sm:w-2/4 lg:hidden gap-y-6 mx-auto">
         <ShellMartinez />
         <ElIman />
-        <p>Pampagonia</p>
+        <Barbero />
         <p>Diesel Lange</p>
         <Msconsultores />
         <Coderhouse />
@@ -27,11 +28,11 @@ const Sponsors = () => {
       <nav className="hidden desktop:grid desktop:grid-cols-2 desktop:place-items-center mx-auto gap-y-6 w-3/5">
         <ShellMartinez />
         <ElIman />
+        <Barbero />
         <Msconsultores />
         <Agrotoken />
         <Coderhouse />
         <Neucor />
-        <p>Pampagonia</p>
         <p>Diesel Lange</p>
         <p>Gondean</p>
       </nav>

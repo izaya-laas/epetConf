@@ -1,0 +1,87 @@
+[
+  {
+    "isBreak": false,
+    "title": "Jovenes Innovadores",
+    "speaker": "Maria Devia",
+    "src": "https://i.ibb.co/2gTJpyG/Avatar-04.webp",
+    "time": "13:45",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Experiencia estudiar mecatronica",
+    "speaker": "Chicos Mecatronica",
+    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
+    "time": "14:00",
+    "duration": "25 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Matematicas como incentivar a los chicos",
+    "speaker": "Emiliano Bobbiesi",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "14:25",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Tecnologia Futuro",
+    "speaker": "Martin Sciarello",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "14:40",
+    "duration": "30 min"
+  },
+  {
+    "isBreak": true,
+    "title": "Merienda",
+    "time": "15:00",
+    "duration": "20 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Tipos de motores",
+    "speaker": "Tomas Vallejos",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "15:20",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Cripto",
+    "speaker": "Riviello",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "15:35",
+    "duration": "25 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Economia",
+    "speaker": "Claudio Zuchoviki",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "16:00",
+    "duration": "50 min"
+  },
+  {
+    "isBreak": true,
+    "title": "Descanso",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "16:50",
+    "duration": "10 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Futuro: Tokenizar el campo",
+    "speaker": "Agrotoken",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "17:00",
+    "duration": "25 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Legado",
+    "speaker": "Emanuel Martinez",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "17:25",
+    "duration": "15 min"
+  }
+]

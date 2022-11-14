@@ -1,43 +1,127 @@
 [
   {
-    "name": "Freddy Vega",
-    "ocupation": "CEO de Platzi",
+    "name": "Emiliano Bobbiesi",
+    "ocupation": "Estudiante 4to año",
     "src": "https://i.ibb.co/2gTJpyG/Avatar-01.webp",
     "instagram": "",
     "twitter": ""
   },
   {
-    "name": "Patti Macias",
-    "ocupation": "Desarrollo personal",
+    "name": "Maria Devia",
+    "ocupation": "Estudiante 5to año",
     "src": "https://i.ibb.co/SyHn3VP/Avatar-03.webp",
     "instagram": "",
     "twitter": ""
   },
   {
-    "name": "DOT CSV",
-    "ocupation": "Inteligencia Artificial",
+    "name": "Tomas Vallejos",
+    "ocupation": "Estudiante 6to año",
     "src": "https://i.ibb.co/TYRhBYK/Avatar-08.webp",
     "instagram": "",
     "twitter": ""
   },
   {
-    "name": "Mansi Dot",
-    "ocupation": "Cripto",
-    "src": "https://i.ibb.co/8gDc5ZL/Avatar-04.webp",
-    "instagram": "",
-    "twitter": ""
-  },
-  {
     "name": "Ema Martinez",
-    "ocupation": "Estudiante",
+    "ocupation": "Estudiante 6to año",
     "src": "https://i.ibb.co/VJKfBCW/Avatar-05.webp",
     "instagram": "",
     "twitter": ""
   },
   {
     "name": "Micaela Quiroga",
-    "ocupation": "Estudiante",
+    "ocupation": "Estudiante 5to año",
     "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Mauro Rossi",
+    "ocupation": "Profesor",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-05.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Santino Casado",
+    "ocupation": "Estudiante 4to año",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-05.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Lucila Toral",
+    "ocupation": "Profesor",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-03.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Lautaro Asat",
+    "ocupation": "Estudiante",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Claudio Zuchoviki",
+    "ocupation": "Economista",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Leandro Riviello",
+    "ocupation": "Youtuber Cripto",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Martin Sciarillo",
+    "ocupation": "Cto. Microsoft Arg",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Nahuel Lema",
+    "ocupation": "Cto. CoderHouse",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Mariela Lancetti",
+    "ocupation": "Consultora de capital Humano",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-03.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Augusto Salvatto",
+    "ocupation": "Autor de 'La batalla del futuro'",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Alejandro Csome",
+    "ocupation": "Divulgador de Arquitectura/Diseño",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Ivan González",
+    "ocupation": "Project Manager",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "instagram": "",
+    "twitter": ""
+  },
+  {
+    "name": "Estudiantes Mecatronica",
+    "ocupation": "Estudiantes de Universidad Mecatronica",
+    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
     "instagram": "",
     "twitter": ""
   }

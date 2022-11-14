@@ -1,0 +1,34 @@
+[
+  {
+    "isBreak": false,
+    "title": "Futuro de Realicó",
+    "speaker": "Panel Empresarios",
+    "src": "https://i.ibb.co/2gTJpyG/Avatar-04.webp",
+    "time": "19:00",
+    "duration": "60 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Trabajos del futuros",
+    "speaker": "Nahuel Lema",
+    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
+    "time": "20:00",
+    "duration": "50 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Economia del conocimiento",
+    "speaker": "Lautaro Asat",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "20:50",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Futuro",
+    "speaker": "Augusto Salvatto",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "14:40",
+    "duration": "50 min"
+  }
+]

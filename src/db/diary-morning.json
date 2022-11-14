@@ -1,0 +1,80 @@
+[
+  {
+    "isBreak": false,
+    "title": "Actitud",
+    "speaker": "Mauro Rossi",
+    "src": "https://i.ibb.co/2gTJpyG/Avatar-04.webp",
+    "time": "8:45",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "La importancia de nuestras decisiones",
+    "speaker": "Micaela Quiroga",
+    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
+    "time": "9:00",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Futuro Matematicas",
+    "speaker": "Damián Pedraza",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "9:15",
+    "duration": "30 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Talento Realicó",
+    "speaker": "Mariela Lanzetti",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "9:45",
+    "duration": "30 min"
+  },
+  {
+    "isBreak": true,
+    "title": "DESAYUNO",
+    "time": "10:10",
+    "duration": "20 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Entrevista",
+    "speaker": "Jose Mauri",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "10:30",
+    "duration": "20 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Jovenes en la politica",
+    "speaker": "Santino Casado",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "10:50",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Diseño",
+    "speaker": "Alejandro Csome",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "11:05",
+    "duration": "30 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Desarrollo Personal",
+    "speaker": "Bruno Covella",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "11:35",
+    "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Aprender Ingles",
+    "speaker": "Lucila Toral",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "11:45",
+    "duration": "15 min"
+  }
+]
