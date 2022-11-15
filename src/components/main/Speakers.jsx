@@ -1,5 +1,9 @@
-import { AiOutlineTwitter } from "react-icons/ai";
-import { AiOutlineInstagram } from "react-icons/ai";
+import {
+  AiOutlineTwitter,
+  AiOutlineInstagram,
+  AiFillYoutube,
+  AiFillLinkedin,
+} from "react-icons/ai";
 import speakers from "../../db/speakers.json";
 import Subtitle from "../Subtitle";
 
@@ -25,12 +29,34 @@ const Speakers = () => {
               <p className="text-sm font-medium">{speaker.ocupation}</p>
               <nav>
                 <ul className="flex text-xl justify-center gap-x-2">
-                  <li>
-                    <AiOutlineTwitter />
-                  </li>
-                  <li>
-                    <AiOutlineInstagram />
-                  </li>
+                  {speaker.social.twitter && (
+                    <li>
+                      <a href={speaker.social.twitter}>
+                        <AiOutlineTwitter />
+                      </a>
+                    </li>
+                  )}
+                  {speaker.social.instagram && (
+                    <li>
+                      <a href={speaker.social.instagram}>
+                        <AiOutlineInstagram />
+                      </a>
+                    </li>
+                  )}
+                  {speaker.social.youtube && (
+                    <li>
+                      <a href={speaker.social.youtube}>
+                        <AiFillYoutube />
+                      </a>
+                    </li>
+                  )}
+                  {speaker.social.linkedin && (
+                    <li>
+                      <a href={speaker.social.linkedin}>
+                        <AiFillLinkedin />
+                      </a>
+                    </li>
+                  )}
                 </ul>
               </nav>
             </div>
