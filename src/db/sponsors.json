@@ -1,5 +1,25 @@
 [
   {
+    "src": "./src/assets/sponsors/barbero.png",
+    "name": "Barbero",
+    "href": ""
+  },
+  {
+    "src": "./src/assets/sponsors/shellmartinez.png",
+    "name": "Shell Martinez",
+    "href": ""
+  },
+  {
+    "src": "./src/assets/sponsors/neucor.png",
+    "name": "Neucor",
+    "href": ""
+  },
+  {
+    "src": "./src/assets/sponsors/eliman.png",
+    "name": "CoderHouse",
+    "href": "https://www.coderhouse.com/"
+  },
+  {
     "src": "./src/assets/sponsors/coderhouse.svg",
     "name": "CoderHouse",
     "href": "https://www.coderhouse.com/"
