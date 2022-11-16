@@ -14,7 +14,7 @@ const Speakers = () => {
       className="text-3xl px-2 desktop:w-3/5 mx-auto font-poppins pb-20 "
     >
       <Subtitle className="pb-4">Oradores</Subtitle>
-      <section className="grid gap-y-10 grid-cols-2 gap-x-1 tablet:grid-cols-3 font-inter">
+      <section className="grid gap-y-10 grid-cols-2 gap-x-1 tablet:grid-cols-3 tablet:px-10 desktop:px-0 font-inter">
         {speakers.map((speaker) => (
           <figure className="mx-auto flex flex-col gap-y-2 rounded-2xl  to-op-primary-color relative ">
             <img

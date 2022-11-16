@@ -1,21 +1,26 @@
 [
   {
-    "src": "./src/assets/sponsors/barbero.png",
+    "src": "https://i.ibb.co/GPQLKzh/barbero.png",
     "name": "Barbero",
     "href": ""
   },
   {
-    "src": "./src/assets/sponsors/shellmartinez.png",
+    "src": "https://i.ibb.co/fqGPwPn/shellmartinez.webp",
     "name": "Shell Martinez",
     "href": ""
   },
   {
-    "src": "./src/assets/sponsors/neucor.png",
+    "src": "https://i.ibb.co/dfmCRVY/tecro.webp",
+    "name": "Tecro",
+    "href": ""
+  },
+  {
+    "src": "https://i.ibb.co/w61vxjx/neucor.webp",
     "name": "Neucor",
     "href": ""
   },
   {
-    "src": "./src/assets/sponsors/eliman.png",
+    "src": "https://i.ibb.co/hHgz6WS/eliman.webp",
     "name": "CoderHouse",
     "href": "https://www.coderhouse.com/"
   },
@@ -25,12 +30,12 @@
     "href": "https://www.coderhouse.com/"
   },
   {
-    "src": "./src/assets/sponsors/mconsultores.png",
+    "src": "https://i.ibb.co/vjJkZVd/mconsultores.webp",
     "name": "Mconsultores",
     "href": "https://ar.linkedin.com/in/mariela-lanzetti-2855814b"
   },
   {
-    "src": "./src/assets/sponsors/agrotoken.png",
+    "src": "https://i.ibb.co/DGrZctW/agrotoken.webp",
     "name": "Agrotoken",
     "href": ""
   }
