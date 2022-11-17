@@ -8,9 +8,10 @@ const About = () => {
         <p>
           <b>EpetConf </b>
           es un evento creado con el objetivo de promover la oratoria en los
-          alumnos y ampliar nuestra mente a nuevas ideas y disrupciones, con
-          <i> charlas de alumnos</i>, <i>invitados</i> y
-          <i> paneles de debate</i>
+          estudiantes, ampliar nuestra mente a nuevas ideas y disrupciones,
+          mediante
+          <i> charlas de estudiantes</i>, <i>invitados</i> y
+          <i> paneles de debate</i>.
         </p>
         <br />
         <p className="px-4">

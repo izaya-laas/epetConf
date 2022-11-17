@@ -3,7 +3,7 @@ const Talks = ({ diary }) => {
     <div className="flex flex-col items-center gap-y-5 px-5">
       {diary.map((talk) => (
         <figure
-          className={`grid grid-cols-1 gap-y-4 tablet:grid-cols-4 border-2 border-gray-color/50 min-w-[280px] max-w-[280px] tablet:w-full tablet:max-w-none rounded-2xl hover:brightness-125 py-4 px-4 tablet:py-0 bg-gradient-to-bl from-transparent via-transparent to-op-primary-color backdrop-blur transition-all duration-300  desktop:w-full ${
+          className={`grid grid-cols-1 gap-y-4 tablet:grid-cols-4 border-2 border-gray-color/50 min-w-[280px] max-w-[280px] tablet:w-full tablet:max-w-none rounded-2xl hover:brightness-125 py-4 pr-4 overflow-hidden tablet:py-0 bg-gradient-to-bl from-transparent via-transparent to-op-primary-color backdrop-blur transition-all duration-300  desktop:w-full ${
             talk.isBreak && "bg-blue-600"
           }`}
         >
@@ -11,8 +11,8 @@ const Talks = ({ diary }) => {
             <picture className="order-2 md:order-1">
               <img
                 src={talk.src}
-                alt="midu"
-                className="w-36 h-36 desktop:w-full desktop:h-full mx-auto object-cover"
+                alt={talk.speaker}
+                className="w-36 h-36 desktop:w-full desktop:h-full mx-auto object-cover rounded-lg tablet:rounded-none"
               />
             </picture>
           )}

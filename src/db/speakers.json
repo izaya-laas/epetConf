@@ -72,9 +72,9 @@
     }
   },
   {
-    "name": "Claudio Zuchoviki",
+    "name": "Claudio Zuchovicki",
     "ocupation": "Economista",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "src": "https://i.ibb.co/rvNtxpd/claudio-zuchovicki.webp",
     "social": {
       "instagram": "https://www.instagram.com/czuchovicki/?next=%2F",
       "twitter": "https://twitter.com/ClaudioZucho"
@@ -83,7 +83,7 @@
   {
     "name": "Leandro Riviello",
     "ocupation": "Youtuber Cripto",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "src": "https://i.ibb.co/wK8RShn/leandro-riviello.webp",
     "social": {
       "instagram": "https://www.instagram.com/leandroriviello/?next=%2F",
       "twitter": "https://twitter.com/leandroriviello",
@@ -93,16 +93,17 @@
   {
     "name": "Martin Sciarrillo",
     "ocupation": "Cto. Microsoft Arg",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "src": "https://i.ibb.co/PGntqLp/martin-sciarrillo.webp",
     "social": {
       "instagram": "https://www.instagram.com/tincho.sciarrillo/?next=%2F",
-      "twitter": "https://twitter.com/Acatincho"
+      "twitter": "https://twitter.com/Acatincho",
+      "linkedin": "https://www.linkedin.com/in/sciarrillo/"
     }
   },
   {
     "name": "Nahuel Lema",
     "ocupation": "Cto. CoderHouse",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "src": "https://i.ibb.co/KWQ7SZJ/nahuel-lema.webp",
     "social": {
       "linkedin": "https://www.linkedin.com/in/nahuellema/"
     }
@@ -119,7 +120,7 @@
   {
     "name": "Augusto Salvatto",
     "ocupation": "Autor de 'La batalla del futuro'",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "src": "https://i.ibb.co/fv0mQbM/augusto-salvatto.webp",
     "social": {
       "instagram": "https://www.instagram.com/asalvatto/?next=%2F",
       "twitter": "https://twitter.com/asalvatto"
@@ -146,5 +147,24 @@
     "ocupation": "Estudiantes de Universidad Mecatronica",
     "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
     "social": {}
+  },
+  {
+    "name": "Ivana Vidal",
+    "ocupatio": "Project manager Agrotoken",
+    "src": "https://i.ibb.co/R0j4FTh/ivana-vidal.webp",
+    "social": {
+      "twitter": "https://twitter.com/Ivana_vidal1",
+      "instagram": "https://www.instagram.com/ivividal_/?hl=es",
+      "linkedin": "https://www.linkedin.com/in/ivana-vidal-a49100169/?originalSubdomain=ar"
+    }
+  },
+  {
+    "name": "Damian Pedraza",
+    "ocupatio": "Influencer",
+    "src": "https://i.ibb.co/f91NHVB/damian-pedraza.webp",
+    "social": {
+      "twitter": "https://twitter.com/eltraductor_ok",
+      "instagram": "https://www.instagram.com/eltraductor_ok"
+    }
   }
 ]

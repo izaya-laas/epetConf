@@ -31,28 +31,44 @@ const Speakers = () => {
                 <ul className="flex text-xl justify-center gap-x-2">
                   {speaker.social.twitter && (
                     <li>
-                      <a href={speaker.social.twitter}>
+                      <a
+                        href={speaker.social.twitter}
+                        target="_BLANCK"
+                        rel="noopener"
+                      >
                         <AiOutlineTwitter />
                       </a>
                     </li>
                   )}
                   {speaker.social.instagram && (
                     <li>
-                      <a href={speaker.social.instagram}>
+                      <a
+                        href={speaker.social.instagram}
+                        target="_BLANCK"
+                        rel="noopener"
+                      >
                         <AiOutlineInstagram />
                       </a>
                     </li>
                   )}
                   {speaker.social.youtube && (
                     <li>
-                      <a href={speaker.social.youtube}>
+                      <a
+                        href={speaker.social.youtube}
+                        target="_BLANCK"
+                        rel="noopener"
+                      >
                         <AiFillYoutube />
                       </a>
                     </li>
                   )}
                   {speaker.social.linkedin && (
                     <li>
-                      <a href={speaker.social.linkedin}>
+                      <a
+                        href={speaker.social.linkedin}
+                        target="_BLANCK"
+                        rel="noopener"
+                      >
                         <AiFillLinkedin />
                       </a>
                     </li>
