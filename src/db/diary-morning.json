@@ -17,9 +17,9 @@
   },
   {
     "isBreak": false,
-    "title": "Futuro Matematicas",
-    "speaker": "Damián Pedraza",
-    "src": "https://i.ibb.co/f91NHVB/damian-pedraza.webp",
+    "title": "",
+    "speaker": "Panel UIA",
+    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
     "time": "9:15",
     "duration": "30 min"
   },
@@ -33,7 +33,7 @@
   },
   {
     "isBreak": true,
-    "title": "DESAYUNO",
+    "title": "BREAK",
     "time": "10:10",
     "duration": "20 min"
   },
@@ -55,19 +55,19 @@
   },
   {
     "isBreak": false,
-    "title": "Pensar Arquitectura",
-    "speaker": "Alejandro Csome",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
-    "time": "11:05",
-    "duration": "30 min"
-  },
-  {
-    "isBreak": false,
     "title": "Desarrollo Personal",
     "speaker": "Bruno Covella",
     "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
-    "time": "11:35",
+    "time": "11:05",
     "duration": "15 min"
+  },
+  {
+    "isBreak": false,
+    "title": "Economia Circular",
+    "speaker": "Ivan Gonzalez",
+    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "time": "11:20",
+    "duration": "25 min"
   },
   {
     "isBreak": false,
