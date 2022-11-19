@@ -1,6 +1,6 @@
 import { useRemainingTime } from "../../hooks/useRemainingTime";
 
-const startDate = new Date("November 23, 2022 09:00");
+const startDate = new Date("November 23, 2022 08:45");
 
 const Counter = () => {
   const { days, hours, minutes, seconds } = useRemainingTime(startDate);
