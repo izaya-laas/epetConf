@@ -57,7 +57,7 @@
   },
   {
     "name": "Lucila Toral",
-    "ocupation": "Profesor",
+    "ocupation": "Profesora",
     "src": "https://i.ibb.co/VJKfBCW/Avatar-03.webp",
     "social": {
       "instagram": "https://www.instagram.com/lucilatoral/?next=%2F"
@@ -65,7 +65,7 @@
   },
   {
     "name": "Lautaro Asat",
-    "ocupation": "Estudiante",
+    "ocupation": "Estudiante 7mo año",
     "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
     "social": {
       "instagram": "https://www.instagram.com/lauty_asat/?next=%2F"
@@ -119,7 +119,7 @@
   },
   {
     "name": "Augusto Salvatto",
-    "ocupation": "Autor de 'La batalla del futuro'",
+    "ocupation": "Consultor en Innovación",
     "src": "https://i.ibb.co/fv0mQbM/augusto-salvatto.webp",
     "social": {
       "instagram": "https://www.instagram.com/asalvatto/?next=%2F",
@@ -130,9 +130,7 @@
     "name": "Ivan González",
     "ocupation": "Project Manager",
     "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
-    "social": {
-      "linkedin": "https://ar.linkedin.com/in/ivan-gonzalez-40a593147"
-    }
+    "social": {}
   },
   {
     "name": "Ivana Vidal",
