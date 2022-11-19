@@ -41,7 +41,7 @@ const Main = () => {
               <h3 className="text-lg desktop:text-2xl font-bold">
                 23 Noviembre
               </h3>
-              <p className="text-lg font-normal">9:00 p.m.</p>
+              <p className="text-lg font-normal">8:45 a.m.</p>
             </div>
           </div>
           <div className="py-4 px-4">
