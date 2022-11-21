@@ -17,8 +17,9 @@
   },
   {
     "isBreak": false,
-    "title": "",
-    "speaker": "Panel UIA",
+    "title": "Panel Industrial (UIA)",
+    "speaker": "",
+    "speakers": ["Roman Guajardo", "Santiago Aloisi"],
     "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
     "time": "9:15",
     "duration": "30 min"

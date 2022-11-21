@@ -18,11 +18,20 @@ const Talks = ({ diary }) => {
           )}
 
           <div className="flex flex-col items-center justify-center font-bold order-1 tablet:order-2 tablet:col-span-2 text-center px-4">
-            <p className="text-xl">{talk.title}</p>
+            <p className={`text-xl ${!talk.speaker && "text-2xl"} `}>
+              {talk.title}
+            </p>
             {!talk.isBreak && (
               <span className="text-primary-color text-2xl">
                 {talk.speaker}
               </span>
+            )}
+            {talk.speakers && (
+              <div className="grid  desktop:grid-cols-2 gap-x-4 text-primary-color">
+                {talk.speakers.map((speaker) => (
+                  <small className="block">{speaker}</small>
+                ))}
+              </div>
             )}
           </div>
 

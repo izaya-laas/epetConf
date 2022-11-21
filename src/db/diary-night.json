@@ -2,7 +2,15 @@
   {
     "isBreak": false,
     "title": "Pensar el futuro de Realicó",
-    "speaker": "Panel Empresarios",
+    "speaker": "",
+    "speakers": [
+      "Diego Martinez",
+      "Gabriel Barbero",
+      "Guillermo Lange",
+      "Mariela Lanzetti",
+      "Matias Pratt",
+      "Martin Damico"
+    ],
     "src": "https://i.ibb.co/2gTJpyG/Avatar-04.webp",
     "time": "19:00",
     "duration": "60 min"
