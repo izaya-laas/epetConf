@@ -1,77 +1,96 @@
 [
   {
+    "id": "emilino-bobbiesi",
     "name": "Emiliano Bobbiesi",
     "ocupation": "Estudiante 4to año",
-    "src": "https://i.ibb.co/2gTJpyG/Avatar-01.webp",
+    "src": "https://i.ibb.co/4SM85DN/emi.jpg",
     "social": {
       "instagram": "https://www.instagram.com/emi_bobbiesi07/?next=%2F"
     }
   },
   {
-    "name": "Maria Devia",
+    "id": "maria-devia",
+    "name": "María Devia",
     "ocupation": "Estudiante 5to año",
-    "src": "https://i.ibb.co/SyHn3VP/Avatar-03.webp",
+    "src": "https://i.ibb.co/g49g3X9/merry.jpg",
     "social": {
       "instagram": "https://www.instagram.com/_maru_devia_/?next=%2F"
     }
   },
   {
-    "name": "Tomas Vallejos",
+    "id": "tomas-vallejos",
+    "name": "Tomás Vallejos",
     "ocupation": "Estudiante 6to año",
-    "src": "https://i.ibb.co/TYRhBYK/Avatar-08.webp",
+    "src": "https://i.ibb.co/5hW33GJ/tomi.jpg",
     "social": {
       "instagram": "https://www.instagram.com/tomas1456788/?next=%2F"
     }
   },
   {
-    "name": "Ema Martinez",
+    "id": "emanuel-martinez",
+    "name": "Emanuel Martinez",
     "ocupation": "Estudiante 6to año",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-05.webp",
+    "src": "https://i.ibb.co/FKPDf7q/ema.jpg",
     "social": {
       "instagram": "https://www.instagram.com/emamartines2005/?next=%2F"
     }
   },
   {
+    "id": "micaela-quiroga",
     "name": "Micaela Quiroga",
     "ocupation": "Estudiante 5to año",
-    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
+    "src": "https://i.ibb.co/yhGh9k7/mica.jpg",
     "social": {
       "instagram": "https://www.instagram.com/micaa.quiroga08/?next=%2F"
     }
   },
   {
+    "id": "bruno-covella",
+    "name": "Bruno Covella",
+    "ocupation": "Estudiante 5to año",
+    "src": "https://i.ibb.co/QYQyM5w/bruno.jpg",
+    "social": {
+      "instagram": "https://www.instagram.com/covellabruno/"
+    }
+  },
+  {
+    "id": "mauro-rossi",
     "name": "Mauro Rossi",
     "ocupation": "Profesor",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-05.webp",
+    "src": "https://i.ibb.co/tB983vn/mauro.jpg",
     "social": {
       "instagram": "https://www.instagram.com/maurofrossi/?next=%2F"
     }
   },
   {
+    "id": "santino-casado",
     "name": "Santino Casado",
     "ocupation": "Estudiante 4to año",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-05.webp",
+    "src": "https://i.ibb.co/tDmzNVW/santino.jpg",
     "social": {
       "instagram": "https://www.instagram.com/santinocasado1/?next=%2F"
     }
   },
   {
+    "id": "lucila-toral",
     "name": "Lucila Toral",
     "ocupation": "Profesora",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-03.webp",
+    "src": "https://i.ibb.co/tK9MDyJ/lucila.jpg",
     "social": {
       "instagram": "https://www.instagram.com/lucilatoral/?next=%2F"
     }
   },
   {
+    "id": "lautaro-asat",
     "name": "Lautaro Asat",
     "ocupation": "Estudiante 7mo año",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
+    "src": "https://i.ibb.co/rfyCbQK/lauti.jpg",
     "social": {
       "instagram": "https://www.instagram.com/lauty_asat/?next=%2F"
     }
   },
   {
+    "id": "claudio-zuchovicki",
     "name": "Claudio Zuchovicki",
     "ocupation": "Economista",
     "src": "https://i.ibb.co/rvNtxpd/claudio-zuchovicki.webp",
@@ -81,6 +100,7 @@
     }
   },
   {
+    "id": "leandro-riviello",
     "name": "Leandro Riviello",
     "ocupation": "Youtuber Cripto",
     "src": "https://i.ibb.co/wK8RShn/leandro-riviello.webp",
@@ -91,7 +111,8 @@
     }
   },
   {
-    "name": "Martin Sciarrillo",
+    "id": "martin-sciarrillo",
+    "name": "Martín Sciarrillo",
     "ocupation": "Cto. Microsoft Arg",
     "src": "https://i.ibb.co/PGntqLp/martin-sciarrillo.webp",
     "social": {
@@ -101,6 +122,7 @@
     }
   },
   {
+    "id": "nahuel-lema",
     "name": "Nahuel Lema",
     "ocupation": "Cto. CoderHouse",
     "src": "https://i.ibb.co/KWQ7SZJ/nahuel-lema.webp",
@@ -109,15 +131,17 @@
     }
   },
   {
-    "name": "Mariela Lancetti",
+    "id": "mariela-lanzetti",
+    "name": "Mariela Lanzetti",
     "ocupation": "Consultora de capital Humano",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-03.webp",
+    "src": "https://i.ibb.co/ZYK7Rgj/mariela.jpg",
     "social": {
       "instagram": "https://www.instagram.com/mariela_lanzetti/?next=%2F",
       "linkedin": "https://ar.linkedin.com/in/mariela-lanzetti-2855814b"
     }
   },
   {
+    "id": "augusto-salvatto",
     "name": "Augusto Salvatto",
     "ocupation": "Consultor en Innovación",
     "src": "https://i.ibb.co/fv0mQbM/augusto-salvatto.webp",
@@ -127,12 +151,16 @@
     }
   },
   {
-    "name": "Ivan González",
-    "ocupation": "Project Manager",
-    "src": "https://i.ibb.co/VJKfBCW/Avatar-04.webp",
-    "social": {}
+    "id": "ivan-gonzalez",
+    "name": "Iván González",
+    "ocupation": "Ing. Industrial / Freelancer",
+    "src": "https://i.ibb.co/LP8BfzR/ivan.jpg",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ivan-gonzalez-940b87127"
+    }
   },
   {
+    "id": "ivana-vidal",
     "name": "Ivana Vidal",
     "ocupatio": "Project manager Agrotoken",
     "src": "https://i.ibb.co/R0j4FTh/ivana-vidal.webp",
@@ -143,6 +171,7 @@
     }
   },
   {
+    "id": "damian-pedraza",
     "name": "Damian Pedraza",
     "ocupatio": "Influencer",
     "src": "https://i.ibb.co/f91NHVB/damian-pedraza.webp",

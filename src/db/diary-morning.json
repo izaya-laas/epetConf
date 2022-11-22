@@ -1,80 +1,101 @@
 [
   {
+    "id": "mauro-rossi",
     "isBreak": false,
     "title": "Actitud",
     "speaker": "Mauro Rossi",
-    "src": "https://i.ibb.co/2gTJpyG/Avatar-04.webp",
+    "src": "https://i.ibb.co/tB983vn/mauro.jpg",
     "time": "8:45",
     "duration": "15 min"
   },
   {
+    "id": "micaela-quiroga",
     "isBreak": false,
     "title": "La importancia de nuestras decisiones",
     "speaker": "Micaela Quiroga",
-    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
+    "src": "https://i.ibb.co/yhGh9k7/mica.jpg",
     "time": "9:00",
     "duration": "15 min"
   },
   {
+    "id": "jose-mauri",
+    "isBreak": false,
+    "title": "Entrevista",
+    "speaker": "José Mauri",
+    "src": "https://i.ibb.co/pwD5d4q/jose.jpg",
+    "time": "09:15",
+    "duration": "20 min"
+  },
+  {
+    "id": "mariela-lanzetti",
+    "isBreak": false,
+    "title": "Trabajo, talento y transformacion como construcción de futuro",
+    "speaker": "Mariela Lanzetti",
+    "src": "https://i.ibb.co/ZYK7Rgj/mariela.jpg",
+    "time": "9:35",
+    "duration": "30 min"
+  },
+
+  {
+    "id": "",
+    "isBreak": true,
+    "title": "BREAK",
+    "time": "10:05",
+    "duration": "20 min"
+  },
+  {
+    "id": "santino-casado",
+    "isBreak": false,
+    "title": "El aporte de los jóvenes a la sociedad",
+    "speaker": "Santino Casado",
+    "src": "https://i.ibb.co/tDmzNVW/santino.jpg",
+    "time": "10:25",
+    "duration": "15 min"
+  },
+  {
+    "id": "santiago-aloisi",
     "isBreak": false,
     "title": "Panel Industrial (UIA)",
     "speaker": "",
     "speakers": ["Roman Guajardo", "Santiago Aloisi"],
-    "src": "https://i.ibb.co/PGbYDmY/Avatar-02.webp",
-    "time": "9:15",
+    "src": "https://i.ibb.co/RPKSrQL/UIA.jpg",
+    "time": "10:40",
     "duration": "30 min"
   },
   {
+    "id": "emilino-bobbiesi",
     "isBreak": false,
-    "title": "Talento en Realicó",
-    "speaker": "Mariela Lanzetti",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
-    "time": "9:45",
-    "duration": "30 min"
-  },
-  {
-    "isBreak": true,
-    "title": "BREAK",
-    "time": "10:10",
-    "duration": "20 min"
-  },
-  {
-    "isBreak": false,
-    "title": "Entrevista: Mi vida",
-    "speaker": "Jose Mauri",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
-    "time": "10:30",
-    "duration": "20 min"
-  },
-  {
-    "isBreak": false,
-    "title": "Jovenes en la politica",
-    "speaker": "Santino Casado",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
-    "time": "10:50",
+    "title": "Matemáticas como incentivar a los chicos",
+    "speaker": "Emiliano Bobbiesi",
+    "src": "https://i.ibb.co/4SM85DN/emi.jpg",
+    "time": "11:00",
     "duration": "15 min"
   },
   {
+    "id": "ivan-gonzalez",
     "isBreak": false,
-    "title": "Desarrollo Personal",
-    "speaker": "Bruno Covella",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
-    "time": "11:05",
-    "duration": "15 min"
+    "title": "Economía Circular",
+    "speaker": "Iván Gonzalez",
+    "src": "https://i.ibb.co/LP8BfzR/ivan.jpg",
+    "time": "11:15",
+    "duration": "20 min"
   },
   {
+    "id": "guillermo-alvarez",
     "isBreak": false,
-    "title": "Economia Circular",
-    "speaker": "Ivan Gonzalez",
+    "title": "Conocer la ingenieria",
+    "speaker": "Guillermo Alvarez",
     "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
-    "time": "11:20",
-    "duration": "25 min"
+    "time": "11:35",
+    "duration": "10 min"
   },
+
   {
+    "id": "lucila-toral",
     "isBreak": false,
     "title": "Enlazando Mundos",
     "speaker": "Lucila Toral",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "src": "https://i.ibb.co/tK9MDyJ/lucila.jpg",
     "time": "11:45",
     "duration": "15 min"
   }

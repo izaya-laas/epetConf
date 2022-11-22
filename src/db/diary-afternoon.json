@@ -1,13 +1,15 @@
 [
   {
+    "id": "maria-devia",
     "isBreak": false,
-    "title": "Jovenes Innovadores",
-    "speaker": "Maria Devia",
-    "src": "https://i.ibb.co/2gTJpyG/Avatar-04.webp",
+    "title": "Jóvenes Innovadores",
+    "speaker": "María Devia",
+    "src": "https://i.ibb.co/g49g3X9/merry.jpg",
     "time": "13:45",
     "duration": "15 min"
   },
   {
+    "id": "damian-pedraza",
     "isBreak": false,
     "title": "Repensar la educación",
     "speaker": "Damián Pedraza",
@@ -16,52 +18,59 @@
     "duration": "25 min"
   },
   {
+    "id": "bruno-covella",
     "isBreak": false,
-    "title": "Matematicas como incentivar a los chicos",
-    "speaker": "Emiliano Bobbiesi",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "title": "Desarrollo Personal",
+    "speaker": "Bruno Covella",
+    "src": "https://i.ibb.co/QYQyM5w/bruno.jpg",
     "time": "14:25",
     "duration": "15 min"
   },
   {
+    "id": "martin-sciarello",
     "isBreak": false,
-    "title": "Tecnologias del presente",
-    "speaker": "Martin Sciarello",
+    "title": "Tecnologías del presente",
+    "speaker": "Martín Sciarello",
     "src": "https://i.ibb.co/PGntqLp/martin-sciarrillo.webp",
     "time": "14:40",
-    "duration": "30 min"
+    "duration": "20 min"
   },
   {
+    "id": "",
     "isBreak": true,
     "title": "BREAK",
     "time": "15:00",
     "duration": "20 min"
   },
   {
+    "id": "tomas-vallejos",
     "isBreak": false,
     "title": "Tipos de motores",
-    "speaker": "Tomas Vallejos",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "speaker": "Tomás Ballejos",
+    "src": "https://i.ibb.co/5hW33GJ/tomi.jpg",
     "time": "15:20",
     "duration": "15 min"
   },
   {
+    "id": "leandro-riviello",
     "isBreak": false,
-    "title": "¿Que es cripto?",
-    "speaker": "Riviello",
+    "title": "¿Qué es cripto?",
+    "speaker": "Leandro Riviello",
     "src": "https://i.ibb.co/wK8RShn/leandro-riviello.webp",
     "time": "15:35",
     "duration": "25 min"
   },
   {
+    "id": "claudio-zuchovicki",
     "isBreak": false,
-    "title": "Parorama economico actual y futuro",
-    "speaker": "Claudio Zuchoviki",
+    "title": "Panorama económico actual y futuro",
+    "speaker": "Claudio Zuchovicki",
     "src": "https://i.ibb.co/rvNtxpd/claudio-zuchovicki.webp",
     "time": "16:00",
     "duration": "50 min"
   },
   {
+    "id": "break",
     "isBreak": true,
     "title": "BREAK",
     "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
@@ -69,6 +78,7 @@
     "duration": "10 min"
   },
   {
+    "id": "ivana-vidal",
     "isBreak": false,
     "title": "Cripto en el campo",
     "speaker": "Ivana Vidal",
@@ -77,10 +87,11 @@
     "duration": "25 min"
   },
   {
+    "id": "emanuel-martinez",
     "isBreak": false,
-    "title": "Importancia del legado",
+    "title": "Hablar desde el corazón",
     "speaker": "Emanuel Martinez",
-    "src": "https://i.ibb.co/CzR0BGd/Avatar-07.webp",
+    "src": "https://i.ibb.co/FKPDf7q/ema.jpg",
     "time": "17:25",
     "duration": "15 min"
   }
