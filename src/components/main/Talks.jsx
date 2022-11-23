@@ -5,7 +5,7 @@ const Talks = ({ diary }) => {
         <a href={`${talk.id ? "#" + talk.id : "#break"}`} className="w-full">
           <figure
             className={`grid grid-cols-1 gap-y-4 tablet:grid-cols-4 border-2 border-gray-color/50 min-w-[280px] tablet:min-h-[150px] max-w-[280px] tablet:w-full tablet:max-w-none rounded-2xl hover:brightness-125 py-4 pr-4 overflow-hidden tablet:py-0 bg-gradient-to-bl from-transparent via-transparent to-op-primary-color backdrop-blur transition-all duration-300  desktop:w-full cursor-pointer desktop:max-h-40 mx-auto ${
-              talk.isBreak && "bg-blue-800"
+              talk.isBreak && "bg-blue-800 tablet:min-h-0"
             }`}
           >
             {!talk.isBreak && (
